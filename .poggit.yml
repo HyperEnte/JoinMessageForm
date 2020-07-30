@@ -5,5 +5,5 @@ branches:
 projects:
   JoinMessage:
     path: JoinMessage/
-    icon: /JoinMessageLOGO.png
+    icon: "JoinMessageLOGO.png"
 ...
